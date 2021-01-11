@@ -1,5 +1,4 @@
-Bu projede bizden istenen grafı java swing kullanarak görselleştirme ile oluşturulan graf üzerinde maximum flow ve minimum cut algoritmaları uygulanmaktır.
-Ben projede Netbeans IDE kullandım. Java ile uygulamamı geliştirdim.
+Bu projede, java swing kullanarak görselleştireren graf üzerinde maximum flow ve minimum cut algoritmaları uygulanmaktır.
 I.	GUI
 A.	CreateGraphGUI
 
