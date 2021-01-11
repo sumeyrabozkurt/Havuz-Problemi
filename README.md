@@ -1,9 +1,9 @@
-Bu projede bizden istenen grafı java swing kullanarak görselleştirme, oluşturulan graf üzerinde maximum flow ve minimum cut algoritmalaraını uygulamaktır.
+Bu projede bizden istenen grafı java swing kullanarak görselleştirme ile oluşturulan graf üzerinde maximum flow ve minimum cut algoritmaları uygulanmaktır.
 Ben projede Netbeans IDE kullandım. Java ile uygulamamı geliştirdim.
 I.	GUI
 A.	CreateGraphGUI
 
-Bu frame içerisinden kullanıcıdan almam gereken değerleri text field ile aldım. Graf içinde kaç düğüm oluşturulacağı, Başlangıç ve bitiş düğümleri, kenar ağırlıkları gibi değerleri böylelikle kullanıcıdan almıs oldum.
+Bu frame içerisinde graf içinde kaç düğüm oluşturulacağı, başlangıç ve bitiş düğümleri, kenar ağırlıkları gibi değerler kullanıcıdan alındı.
 
 Kullanıcının oluşturacağı düğüm sayısı ile başlangıç ve düğüm sayılarını aldıktan sonra soldaki panel üzerinde tıklama ve realased methodları ile grafı maouse yardımıyla çizdirdim. 
 
